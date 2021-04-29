@@ -14,7 +14,7 @@ This script copies the master branch of a Versions project into another Versions
 1. Create a new project to paste into on the Desktop app
 1. **Help > Enable Development Menu**
 1. In the paste project, download the project via **"..."/right click menu > Development > Force Sync Project**
-1. Run the script by double clicking
+1. Run the script
 1. Go through the Terminal prompts
 1. The prompts will require project IDs which can be copied via the project's **"..."/right click menu > Development > Copy project ID**
 1. Refresh the Desktop app **CMD + R**
